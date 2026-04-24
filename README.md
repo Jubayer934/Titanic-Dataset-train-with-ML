@@ -23,7 +23,7 @@ Analyzes the dataset to uncover survival patterns before any modeling.
 - **Children (0–10)** survived more; **elderly (65+)** were least likely to survive
 ---
  
-### 2. `ML_with_TitanicDataset.ipynb` — Model Training & Comparison
+### 2. `TitanicDataset_Train.ipynb` — Model Training & Comparison
  
 Trains 8 classifiers after preprocessing and compares their accuracy.
  
